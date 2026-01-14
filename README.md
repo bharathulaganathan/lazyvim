@@ -19,7 +19,7 @@ git clone https://github.com/bharathulaganathan/lazyvim ~/.config/nvim
 
 ### 🪁 Windows
 
-```ps
+```powershell
 # backup current config
 Move-Item $env:LOCALAPPDATA\nvim $env:LOCALAPPDATA\nvim.bak
 Move-Item $env:LOCALAPPDATA\nvim-data $env:LOCALAPPDATA\nvim-data.bak
